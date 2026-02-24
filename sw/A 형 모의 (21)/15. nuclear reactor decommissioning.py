@@ -18,6 +18,7 @@ for tc in range(1, T+1):
             'k': a[3]
         }
 
+
     for _ in range(4000):
         temp_dict = {}
         for i, n in n_dict.items():
