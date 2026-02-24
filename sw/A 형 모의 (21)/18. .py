@@ -1,4 +1,4 @@
 import sys
 
-sys.stdin = open('sample_input2.txt', 'r')
+sys.stdin = open('sample_input18.txt', 'r')
 
