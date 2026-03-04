@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efa461c8-db37-477f-ad99-e50e344256df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/1. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/2. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/3. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/4. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/5. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/4. array minimum sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/4. array minimum sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/5. sum of subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/5. sum of subsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/1. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/2. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/3. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/4. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/5. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/1. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/2. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/3. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/4. .py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +38,8 @@
       <recent name="C:\Users\SSAFY\Desktop\ssafy\sw\A 형 모의 (21)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3. binary number">
-    <configuration name="1. average of average" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4. maze 1">
+    <configuration name="1. graph path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,11 +47,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(02.20) 부분집합(5)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/1. average of average.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/1. graph path.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20. protective film" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Microbial isolation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/A 형 모의 (21)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/A 형 모의 (21)/20. protective film.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/2. Microbial isolation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21. swimming pool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3. Home crime prevention service" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/A 형 모의 (21)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/A 형 모의 (21)/21. swimming pool.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/3. Home crime prevention service.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Binary representation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4. Four basic operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(02.20) 부분집합(5)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/2. Binary representation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/4. Four basic operations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. binary number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4. maze 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(02.20) 부분집합(5)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/3. binary number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/4. maze 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3. binary number" />
-        <item itemvalue="Python.2. Binary representation" />
-        <item itemvalue="Python.1. average of average" />
-        <item itemvalue="Python.21. swimming pool" />
-        <item itemvalue="Python.20. protective film" />
+        <item itemvalue="Python.4. maze 1" />
+        <item itemvalue="Python.3. Home crime prevention service" />
+        <item itemvalue="Python.2. Microbial isolation" />
+        <item itemvalue="Python.1. graph path" />
+        <item itemvalue="Python.4. Four basic operations" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +175,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -181,6 +189,16 @@
           <url>file://$PROJECT_DIR$/sw/A 형 모의 (21)/20. protective film.py</url>
           <line>17</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/1. graph path.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/3. Home crime prevention service.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
