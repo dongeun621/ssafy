@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efa461c8-db37-477f-ad99-e50e344256df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sw/조심해야될거.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/4. array minimum sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/4. array minimum sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/5. sum of subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw/(02.20) 부분집합(5)/5. sum of subsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/1. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/2. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/3. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/4. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/5. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/1. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/2. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/3. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/4. .py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +29,8 @@
       <recent name="C:\Users\SSAFY\Desktop\ssafy\sw\A 형 모의 (21)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4. maze 1">
-    <configuration name="1. graph path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="1. Prerequisite subjects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +38,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/역량평가 준비2(3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/1. graph path.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비2(3)/1. Prerequisite subjects.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +51,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Microbial isolation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. correspondent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/역량평가 준비3(3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/2. Microbial isolation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비3(3)/1. correspondent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. Home crime prevention service" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Hiking trail construction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/역량평가 준비2(3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/3. Home crime prevention service.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비2(3)/2. Hiking trail construction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. Four basic operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. building a bridge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/역량평가 준비3(3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.03 오전) Tree(5)/4. Four basic operations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비3(3)/2. building a bridge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. maze 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/4. maze 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4. maze 1" />
-        <item itemvalue="Python.3. Home crime prevention service" />
-        <item itemvalue="Python.2. Microbial isolation" />
-        <item itemvalue="Python.1. graph path" />
-        <item itemvalue="Python.4. Four basic operations" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.2. building a bridge" />
+        <item itemvalue="Python.1. correspondent" />
+        <item itemvalue="Python.2. Hiking trail construction" />
+        <item itemvalue="Python.1. Prerequisite subjects" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +190,26 @@
           <url>file://$PROJECT_DIR$/sw/(03.04 오전) DFS1(4)/3. Home crime prevention service.py</url>
           <line>13</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/역량평가 준비2(3)/2. Hiking trail construction.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/역량평가 준비3(3)/1. correspondent.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/역량평가 준비3(3)/1. correspondent.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/역량평가 준비3(3)/2. building a bridge.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
