@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efa461c8-db37-477f-ad99-e50e344256df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sw/조심해야될거.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/역량평가 준비4(4)/1..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/역량평가 준비4(4)/2..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/조심해야될거.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sw/조심해야될거.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +30,8 @@
       <recent name="C:\Users\SSAFY\Desktop\ssafy\sw\A 형 모의 (21)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="1. Prerequisite subjects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2. double">
+    <configuration name="1. To the mountain rescue road" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,11 +39,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/역량평가 준비2(3)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/역량평가 준비4(4)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비2(3)/1. Prerequisite subjects.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비4(4)/1. To the mountain rescue road.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,27 +73,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Hiking trail construction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/역량평가 준비2(3)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비2(3)/2. Hiking trail construction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="2. building a bridge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,6 +86,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비3(3)/2. building a bridge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2. double" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ssafy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/역량평가 준비4(4)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비4(4)/2. double.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2. double" />
+        <item itemvalue="Python.1. To the mountain rescue road" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.2. building a bridge" />
         <item itemvalue="Python.1. correspondent" />
-        <item itemvalue="Python.2. Hiking trail construction" />
-        <item itemvalue="Python.1. Prerequisite subjects" />
       </list>
     </recent_temporary>
   </component>
