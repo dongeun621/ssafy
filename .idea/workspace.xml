@@ -3,14 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="efa461c8-db37-477f-ad99-e50e344256df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/역량평가 준비4(4)/1..py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/역량평가 준비4(4)/2..py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/조심해야될거.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sw/조심해야될거.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,7 +34,7 @@
       <recent name="C:\Users\SSAFY\Desktop\ssafy\sw\A 형 모의 (21)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2. double">
+  <component name="RunManager" selected="Python.22. Connecting a Processor">
     <configuration name="1. To the mountain rescue road" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1. correspondent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22. Connecting a Processor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/역량평가 준비3(3)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/A 형 모의 (21)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/역량평가 준비3(3)/1. correspondent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/A 형 모의 (21)/22. Connecting a Processor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.22. Connecting a Processor" />
         <item itemvalue="Python.2. double" />
         <item itemvalue="Python.1. To the mountain rescue road" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.2. building a bridge" />
-        <item itemvalue="Python.1. correspondent" />
       </list>
     </recent_temporary>
   </component>
