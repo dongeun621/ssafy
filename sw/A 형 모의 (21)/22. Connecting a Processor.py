@@ -4,67 +4,68 @@ sys.stdin = open('sample_input22.txt', 'r')
 
 dxy = [(-1, 0), (0, 1), (1, 0), (0, -1)]
 
-def can_connect(x, y, dx, dy):
-    nx, ny = x + dx, y + dy
-    while 0 <= nx < N and 0 <= ny < N:
-        if matrix[nx][ny] != 0:
-            return False
-        nx += dx
-        ny += dy
-    return True
+def change(x,y,dx,dy,k,value):
+    for _ in range(k):
+        x += dx
+        y += dy
+        matrix[x][y] = value
 
-def set_line(x, y, dx, dy, value):
-    nx, ny = x + dx, y + dy
-    length = 0
-    while 0 <= nx < N and 0 <= ny < N:
-        matrix[nx][ny] = value
-        length += 1
-        nx += dx
-        ny += dy
-    return length
+def comfirm(x,y,dx,dy):
+    cnt = 0
+    while True:
+        x += dx
+        y += dy
+        if 0 <= x < N and 0 <= y < N:
+            if matrix[x][y] != 0:
+                return False
+            cnt += 1
+        else:
+            break
 
-def dfs(idx, connected_cnt, cost):
-    global best_core, best_len
+    return cnt
 
-    # 가지치기: 남은 코어를 전부 연결해도 최고 기록 불가
-    if connected_cnt + (len(cores) - idx) < best_core:
+def dfs(idx, cnt, cost):
+    global max_core, min_cost
+    #가지치기
+    if cores_cnt - idx + cnt < max_core: #남은 코어수 + 연결된 코어수가 최대코어수보다 작으면 끝
         return
-
-    if idx == len(cores):
-        if connected_cnt > best_core:
-            best_core = connected_cnt
-            best_len = cost
-        elif connected_cnt == best_core:
-            best_len = min(best_len, cost)
+    #결과처리
+    if idx == cores_cnt:#모든코어 탐색 했으면
+        max_core = max(max_core, cnt)
+        min_cost[cnt-1] = min(min_cost[cnt-1], cost)
         return
+    for core_idx in range(idx, cores_cnt):
+        x,y = cores[core_idx]
+        for dx, dy in dxy:
+            d_cost = comfirm(x,y,dx,dy)
+            if d_cost != False:
+                change(x,y,dx,dy,d_cost,2)
+                dfs(core_idx+1, cnt+1, cost+d_cost)
+                change(x,y,dx,dy,d_cost,0)
 
-    x, y = cores[idx]
+        dfs(core_idx+1, cnt, cost)
 
-    # 4방향 연결 시도
-    for dx, dy in dxy:
-        if can_connect(x, y, dx, dy):
-            line_len = set_line(x, y, dx, dy, 2)
-            dfs(idx + 1, connected_cnt + 1, cost + line_len)
-            set_line(x, y, dx, dy, 0)
 
-    # 연결하지 않는 경우
-    dfs(idx + 1, connected_cnt, cost)
 
 
 T = int(input())
-for tc in range(1, T + 1):
+for tc in range(1, T+1):
     N = int(input())
-    matrix = [list(map(int, input().split())) for _ in range(N)]
-
+    matrix = [list(map(int,input().split())) for _ in range(N)]
     cores = []
-    for i in range(1, N - 1):
-        for j in range(1, N - 1):
+    result = 0
+
+    for i in range(1, N-1):
+        for j in range(1, N-1):
             if matrix[i][j] == 1:
-                cores.append((i, j))
+                cores.append((i,j))
+    cores_cnt = len(cores)
+    max_core = 0
+    min_cost = [float('inf') for _ in range(len(cores))]
 
-    best_core = -1
-    best_len = float('inf')
+    if cores:
+        dfs(0,0,0)
 
-    dfs(0, 0, 0)
+    result = min_cost[max_core-1]
+    print(f'#{tc} {result}')
 
-    print(f'#{tc} {best_len}')
