@@ -3,17 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="efa461c8-db37-477f-ad99-e50e344256df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.09 오전) 서로소 집합(5)/4. disjoint set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.09 오전) 서로소 집합(5)/5. Contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw/(03.09 오전) 서로소 집합(5)/5. Contact.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.09 오후) MST(3)/1. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.09 오후) MST(3)/2. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.09 오후) MST(3)/3. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/1. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/2. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/3. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/4. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/5. .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/조심해야될거.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sw/조심해야될거.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)/1. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)/2. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)/3. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)/4. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)/5. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오후) DP(5)/1. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오후) DP(5)/2. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오후) DP(5)/3. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오후) DP(5)/4. .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw/(03.11 오후) DP(5)/5. .py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +52,8 @@
       <recent name="C:\Users\SSAFY\Desktop\ssafy\sw\A 형 모의 (21)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4. Easy change">
-    <configuration name="1. binary heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5. swimming pool">
+    <configuration name="1. Happy Box" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.11 오후) DP(5)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/1. binary heap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.11 오후) DP(5)/1. Happy Box.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Find the median" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3. tiling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.11 오후) DP(5)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/2. Find the median.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.11 오후) DP(5)/3. tiling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4. hamburger diet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.11 오후) DP(5)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/3. heap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.11 오후) DP(5)/4. hamburger diet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. Easy change" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5. square room" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/4. Easy change.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)/5. square room.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5. two strings of numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5. swimming pool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw/(03.11 오후) DP(5)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/5. two strings of numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/(03.11 오후) DP(5)/5. swimming pool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4. Easy change" />
-        <item itemvalue="Python.3. heap" />
-        <item itemvalue="Python.2. Find the median" />
-        <item itemvalue="Python.1. binary heap" />
-        <item itemvalue="Python.5. two strings of numbers" />
+        <item itemvalue="Python.5. swimming pool" />
+        <item itemvalue="Python.4. hamburger diet" />
+        <item itemvalue="Python.3. tiling" />
+        <item itemvalue="Python.1. Happy Box" />
+        <item itemvalue="Python.5. square room" />
       </list>
     </recent_temporary>
   </component>
@@ -274,6 +273,26 @@
           <url>file://$PROJECT_DIR$/sw/(03.10) 이진탐색  힙(5)/1. binary heap.py</url>
           <line>16</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)/2. binary search.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)/3. quick sort.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/(03.11 오전) 분할정복(5)/5. square room.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw/(03.11 오후) DP(5)/1. Happy Box.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
