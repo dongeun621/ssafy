@@ -2,5 +2,32 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/ai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_0_1_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_0_1_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_0_2_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_0_2_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_1_1_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_1_1_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_1_2_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_1_2_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_2_1_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_2_1_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_2_2_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_2_2_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_3_1_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_3_1_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_3_2_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_3_2_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_4_1_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_4_1_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_4_2_1_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_4_2_1_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_4_2_2_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_4_2_2_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_5_1_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_5_1_ws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_5_2_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/실습/AI/chapter_5_2_ws" vcs="Git" />
   </component>
 </project>
