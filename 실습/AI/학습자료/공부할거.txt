@@ -1,0 +1,13 @@
+박스 플롯 q3-q1
+과적합 막는법
+차원의 저주
+다중 퍼셉트론 순서
+활성화 함수 종류
+규제 방법
+cnn 특징맵 계산
+cnn 특징 추출과정
+fine튜닝
+
+
+
+https://excalidraw.com/#json=20ORox4xx9USsp6appEm2,S-sYRXme2c516Y_B0IRK_g
